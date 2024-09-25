@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8736777999974303940
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1232827215320584, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1232827215320584, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Name
+      value: AutomotiveHaptxPlayer
+      objectReference: {fileID: 0}
+    - target: {fileID: 1246220818732682, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1276053203222988, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1414307312403448, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1853265918263596, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1921759490764526, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4430995886491994, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23235636136511356, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 33725256239756252, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2646391892209852779, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: _leftHandPrefab
+      value: 
+      objectReference: {fileID: 3716852361311400639, guid: 04041b22ff4b6c844a6affaed3bd9ffb,
+        type: 3}
+    - target: {fileID: 2646391892209852779, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: _rightHandPrefab
+      value: 
+      objectReference: {fileID: 3716852361311400639, guid: 04041b22ff4b6c844a6affaed3bd9ffb,
+        type: 3}
+    - target: {fileID: 5394662383741807370, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: sceneId
+      value: 4082172048
+      objectReference: {fileID: 0}
+    - target: {fileID: 6140994563126820811, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6140994563126820811, guid: 1b866579524e73f49b035f409fcc7bf7,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b866579524e73f49b035f409fcc7bf7, type: 3}

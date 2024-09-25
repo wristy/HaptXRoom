@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7f3454abd1d3b184ca1c1502d95e89f3
+timeCreated: 1525220818
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: HaptX_logo_prism:HaptX_logo_prism:polySurface2
+    100002: HaptX_logo_prism:HaptX_logo_prism:transform1
+    100004: HaptX_logo_prism:HaptX_logo_prism:transform2
+    100006: HaptX_logo_prism:pCylinder1
+    100008: HaptX_logo_prism:pCylinder2
+    100010: HaptX_logo_prism:pCylinder3
+    100012: HaptX_logo_prism:pCylinder4
+    100014: HaptX_logo_prism:pCylinder5
+    100016: HaptX_logo_prism:pCylinder6
+    100018: HaptX_logo_prism:pCylinder7
+    100020: HaptX_logo_prism:polySurface1
+    100022: HaptX_logo_prism:polySurface2
+    100024: HaptX_logo_prism:transform1
+    100026: HaptX_logo_prism:transform2
+    100028: HaptX_logo_prism:transform3
+    100030: HaptX_logo_prism:transform4
+    100032: HaptX_logo_prism:transform5
+    100034: HaptX_logo_prism:transform6
+    100036: HaptX_logo_prism:transform7
+    100038: HaptX_logo_prism:transform8
+    100040: pTorus1
+    100042: //RootNode
+    100044: steering_wheel
+    100046: transform1
+    400000: HaptX_logo_prism:HaptX_logo_prism:polySurface2
+    400002: HaptX_logo_prism:HaptX_logo_prism:transform1
+    400004: HaptX_logo_prism:HaptX_logo_prism:transform2
+    400006: HaptX_logo_prism:pCylinder1
+    400008: HaptX_logo_prism:pCylinder2
+    400010: HaptX_logo_prism:pCylinder3
+    400012: HaptX_logo_prism:pCylinder4
+    400014: HaptX_logo_prism:pCylinder5
+    400016: HaptX_logo_prism:pCylinder6
+    400018: HaptX_logo_prism:pCylinder7
+    400020: HaptX_logo_prism:polySurface1
+    400022: HaptX_logo_prism:polySurface2
+    400024: HaptX_logo_prism:transform1
+    400026: HaptX_logo_prism:transform2
+    400028: HaptX_logo_prism:transform3
+    400030: HaptX_logo_prism:transform4
+    400032: HaptX_logo_prism:transform5
+    400034: HaptX_logo_prism:transform6
+    400036: HaptX_logo_prism:transform7
+    400038: HaptX_logo_prism:transform8
+    400040: pTorus1
+    400042: //RootNode
+    400044: steering_wheel
+    400046: transform1
+    2300000: HaptX_logo_prism:HaptX_logo_prism:polySurface2
+    2300002: steering_wheel
+    3300000: HaptX_logo_prism:HaptX_logo_prism:polySurface2
+    3300002: steering_wheel
+    4300000: HaptX_logo_prism:HaptX_logo_prism:polySurface2
+    4300002: steering_wheel
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
